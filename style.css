@@ -1,0 +1,44 @@
+body
+{
+	background-color:whitesmoke;
+	
+}
+.dropdown-menu.show
+{
+	background-color:#343a40;
+}
+.dropdown-item
+{
+	color:white;
+}
+#hiden
+{
+	display: none !important;
+}
+.card-text
+{
+	height:40px;
+	
+}
+table,th,td
+{
+	border:solid;
+}
+th
+{
+	width: 250px;
+	text-align: center;
+}
+td
+{
+	text-align: center;
+}
+#introduce
+{
+	display:flex
+}
+.introduce-child
+{
+	
+	margin:0 auto;
+}
